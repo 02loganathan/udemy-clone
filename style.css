@@ -88,12 +88,12 @@ body {
 }
 .skill-image__offer {
     background-color: white;
-    width: 35%;
-    padding: 2%;
+    width: 30%;
+    padding: 30px;
     position: absolute;
     border: solid black 2px;  
-    top: 35%;
-    left: 5%;
+    top: 300px;
+    left: 100px;
 }
 .recommended {
     padding: 10px;
